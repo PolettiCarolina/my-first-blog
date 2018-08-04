@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+Sublime Text*
+AtomSetup-x64.exe
+Intro.py
+caro.py
+python-3.4.3.amd64.msi
